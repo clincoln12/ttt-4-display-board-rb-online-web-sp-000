@@ -12,5 +12,3 @@ end
 board = [" "," "," "," ","X"," "," "," "," "]
 display_board(board)
 
-puts "#{board[4]}"
-
